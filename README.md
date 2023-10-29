@@ -4,7 +4,7 @@ Product Growth Management Internship Assignment anchors.in
 
 ## Wireframe
 
-You can view the wireframe for the referral system [here](https//:manideep285.github.io/Product-Growth-Management-Internship-Assignment/).
+You can view the wireframe for the referral system [here](https://manideep285.github.io/Product-Growth-Management-Internship-Assignment/).
 
 ## Implementing the Same Referral System for Both Genders
 
